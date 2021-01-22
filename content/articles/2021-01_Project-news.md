@@ -14,7 +14,7 @@ them credit - they were the first tool to implement agile project management.
 I hope you know [Notion](https://notion.so) - an app that took the world by storm produced by 4 people in total I think. As the name might imply, it started
 as a simple notes taking tool some few years back. It happened to be so versatile and free-editing experience (something line One Note by M$) that it gained
 a lot of traction from the beginning. And the developers realized what was the key to success. The versatility. Today, you can manage whole project just using
-Notion. You can add some custom templates, just like what [Notion PM](https://www.slashmint.com/notion-pm) offers.
+Notion. You can add some custom templates, just like what [Notion PM](https://www.slashmint.com/notion-pm) offers. There is plenty of feature richer tools like well known [Coda](https://coda.io) and one of its competitors [Fibery](https://fibery.io).
 
 ## Ten projekt na ktery si nemuzu vzpomenout
 
@@ -30,3 +30,5 @@ computers such as my favourite ChromeBooks.
 
 ## Integromat
 
+Originally a Czech software, recently acquired by a German company. It allows you to react on events in one of 300+ services and 
+take action in any of the mentioned services. It is similar to Zapier or IFTTT.
