@@ -32,3 +32,7 @@ computers such as my favourite ChromeBooks.
 
 Originally a Czech software, recently acquired by a German company. It allows you to react on events in one of 300+ services and 
 take action in any of the mentioned services. It is similar to Zapier or IFTTT.
+
+# Office tools
+
+[Paperless.io](https://paperless.io) is the project that makes documents a bit less painful. Create documents that are versatile, iteractive and trully digital. Not as cool as smart contracts build on Ethereum but still binding thanks to verified signatures.
